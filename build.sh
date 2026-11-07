@@ -33,8 +33,8 @@ cat > "$APPEX/Contents/Info.plist" <<PLIST
   <key>CFBundleDisplayName</key><string>AI Tasks</string>
   <key>CFBundleExecutable</key><string>AITasksWidgetExtension</string>
   <key>CFBundlePackageType</key><string>XPC!</string>
-  <key>CFBundleShortVersionString</key><string>0.3.1</string>
-  <key>CFBundleVersion</key><string>5</string>
+  <key>CFBundleShortVersionString</key><string>0.8.0</string>
+  <key>CFBundleVersion</key><string>8</string>
   <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
   <key>CFBundleSupportedPlatforms</key><array><string>MacOSX</string></array>
   <key>LSMinimumSystemVersion</key><string>14.0</string>
@@ -63,8 +63,8 @@ cat > "$APP/Contents/Info.plist" <<PLIST
   <key>CFBundleName</key><string>AI Tasks</string>
   <key>CFBundleExecutable</key><string>AITasksHelper</string>
   <key>CFBundlePackageType</key><string>APPL</string>
-  <key>CFBundleShortVersionString</key><string>0.3.1</string>
-  <key>CFBundleVersion</key><string>5</string>
+  <key>CFBundleShortVersionString</key><string>0.8.0</string>
+  <key>CFBundleVersion</key><string>8</string>
   <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
   <key>LSMinimumSystemVersion</key><string>14.0</string>
   <key>LSUIElement</key><true/>
